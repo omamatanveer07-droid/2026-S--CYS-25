@@ -1,4 +1,4 @@
-A1 = {"Dawar", "sohaib", "umar"
+A1 = {"omama", "Noor", "fatima"
 }
 A2 = {43,37,27}
 A3 = {1,2,3}
