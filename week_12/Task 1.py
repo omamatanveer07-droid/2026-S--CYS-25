@@ -1,3 +1,3 @@
 def name():
-    print("Dawar")
+    print("omama")
 name()
